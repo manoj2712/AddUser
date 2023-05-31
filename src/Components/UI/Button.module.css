@@ -1,8 +1,10 @@
 .button{
     text-align: center;
-    width: auto;
+    width: fit-content;
     background-color: rgb(10, 176, 176);
     color:black;
     font:bold;
     border-radius: 12rem;
+    font-size: large;
+    height: inherit;
 }
