@@ -1,12 +1,9 @@
 import React from 'react';
-import UserInputForm from './Components/UserInputForm';
-import Card from './Components/UI/Card';
+import AddUser from './Components/Users/AddUser';
 
 function App() {
   return (
-    <Card>
-      <UserInputForm />
-    </Card>
+      <AddUser />
   );
 }
 

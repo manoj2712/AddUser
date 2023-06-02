@@ -1,10 +1,6 @@
 .card{
-    flex:content;
-    border-radius: 3rem;
-    background-color: aliceblue;
-    width:fit-content;
-    display: center;
-    height: inherit;
-    margin:1rem 5rem;
-    padding:2rem;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 0 2px 8px rgba(0,0,0,26);
+
 }
